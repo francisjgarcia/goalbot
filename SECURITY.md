@@ -43,4 +43,3 @@ For users deploying this project, we recommend the following best practices to m
 
 - [Common Vulnerabilities and Exposures (CVE) List](https://cve.mitre.org/)
 - [OWASP Top Ten Security Risks](https://owasp.org/www-project-top-ten/)
-
