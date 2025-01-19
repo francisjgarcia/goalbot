@@ -1,5 +1,9 @@
 # Changelog
 
+## [v1.4.0](https://github.com/francisjgarcia/goalbot/releases/v1.4.0) (2025-01-19)
+* ci(variables): Split promt variables in another variables @francisjgarcia ([#a29d2bc](https://github.com/francisjgarcia/goalbot/commit/a29d2bc3fb3c118cc7ada1dd2f531edf89329b91))
+
+
 ## [v1.3.0](https://github.com/francisjgarcia/goalbot/releases/v1.3.0) (2025-01-19)
 * ci(variables): Change simple quotes in openai prompt variables into docker run environment variables to doble quotes @francisjgarcia ([#43680ba](https://github.com/francisjgarcia/goalbot/commit/43680bae213f07b7ef4d9a5bf9dbf9b9bd14f338))
 
