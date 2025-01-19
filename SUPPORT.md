@@ -23,21 +23,21 @@ Here are some common questions and answers:
 
 To propose a new feature or improvement:
 
-1. **Check Existing Requests**: Look at the [issues page](https://github.com/francisjgarcia/tests/issues) to see if the feature has already been requested.
-2. **Create a New Feature Request**: If not, create a new issue using the [feature request template](https://github.com/francisjgarcia/tests/issues/new?&template=1_feature_request.yml) and describe the proposed feature or enhancement.
+1. **Check Existing Requests**: Look at the [issues page](https://github.com/francisjgarcia/goalbot/issues) to see if the feature has already been requested.
+2. **Create a New Feature Request**: If not, create a new issue using the [feature request template](https://github.com/francisjgarcia/goalbot/issues/new?&template=1_feature_request.yml) and describe the proposed feature or enhancement.
 
 ## Technical Support
 
 For technical support, you can:
 
-- **Join the Discussions**: Participate in the project discussions on [GitHub Discussions](https://github.com/francisjgarcia/tests/discussions) to get help and share ideas.
+- **Join the Discussions**: Participate in the project discussions on [GitHub Discussions](https://github.com/francisjgarcia/goalbot/discussions) to get help and share ideas.
 - **Consult the Documentation**: Refer to the [documentation](README.md) for detailed information about the project.
 
 ## Contact
 
 For additional assistance or to contact the maintainers, you can:
 
-- **Open an Issue**: Use the [issues page](https://github.com/francisjgarcia/tests/issues) to ask questions or seek help.
+- **Open an Issue**: Use the [issues page](https://github.com/francisjgarcia/goalbot/issues) to ask questions or seek help.
 - **Email**: Reach out via email to [contacto@francisjgarcia.es](mailto:contacto@francisjgarcia.es).
 
 This document may be updated as necessary to provide the most current support information.

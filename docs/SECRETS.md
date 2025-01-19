@@ -4,13 +4,7 @@ This file contains sensitive configurations necessary for the integration and de
 
 ## Github Actions
 
-- **`CLOUDFLARE_API_TOKEN`**:
-  - **Description**: The API token used to authenticate requests to the Cloudflare API.
-  - **Example**: `your-cloudflare-api-token`
-
-- **`DEPLOY_SERVER`**:
-  - **Description**: The address of the server where the application will be deployed.
-  - **Example**: `deploy.example.com`
+### Workflow Secrets
 
 - **`SSH_PRIVATE_HOST`**:
   - **Description**: The hostname or IP address of the private SSH server you need to connect to.
@@ -39,3 +33,22 @@ This file contains sensitive configurations necessary for the integration and de
 - **`SSH_PROXY_USER`**:
   - **Description**: The username for authentication on the proxy server.
   - **Example**: `proxyuser`
+
+### Application Configuration Variables
+
+- **`DISCORD_BOT_TOKEN`**:
+  - **Description**: The token for the Discord bot.
+  - **Example**: `mydiscordbottoken`
+
+- **`DISCORD_CHANNEL_ID`**:
+  - **Description**: The ID of the Discord channel where the bot will send messages.
+  - **Example**: `12345678987654321`
+  - **Note**: You can get the channel ID by right-clicking on the channel name and selecting "Copy ID".
+
+- **`OPENAI_API_KEY`**:
+  - **Description**: The API key for the OpenAI GPT-3 service.
+  - **Example**: `myopenaiapikey`
+
+- **`TWITCH_ACCESS_TOKEN`**:
+  - **Description**: The access token for the Twitch API.
+  - **Example**: `mytwitchaccesstoken`
