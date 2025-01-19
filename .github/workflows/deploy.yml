@@ -123,7 +123,7 @@ jobs:
           TAG_VERSION: ${{ needs.setup.outputs.tag_version }}
         run: docker pull ghcr.io/${{ env.GITHUB_REPOSITORY }}:${{ env.TAG_VERSION }}
 
-        - name: Deploy application to server
+      - name: Deploy application to server
         env:
           GITHUB_REPOSITORY: ${{ github.repository }}
           REPO_NAME: ${{ needs.setup.outputs.repo_name }}
