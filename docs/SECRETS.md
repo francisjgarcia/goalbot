@@ -41,9 +41,9 @@ This file contains sensitive configurations necessary for the integration and de
   - **Example**: `mydiscordbottoken`
 
 - **`DISCORD_CHANNEL_ID`**:
-- **Description**: The ID of the Discord channel where the bot will send messages.
-- **Example**: `12345678987654321`
-- **Note**: You can get the channel ID by right-clicking on the channel name and selecting "Copy ID".
+  - **Description**: The ID of the Discord channel where the bot will send messages.
+  - **Example**: `12345678987654321`
+  - **Note**: You can get the channel ID by right-clicking on the channel name and selecting "Copy ID".
 
 - **`OPENAI_API_KEY`**:
   - **Description**: The API key for the OpenAI GPT-3 service.

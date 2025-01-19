@@ -7,36 +7,36 @@ This file contains the necessary configurations for the integration and deployme
 ### Application Configuration Variables
 
 - **`DEBUG`**:
-- **Description**: A boolean value that determines whether the application is running in debug mode.
-- **Example**: `True`
+  - **Description**: A boolean value that determines whether the application is running in debug mode.
+  - **Example**: `True`
 
 - **`OPENAI_MODEL_ID`**:
-- **Description**: The ID of the OpenAI model to use for generating responses.
-- **Example**: `gpt-3.5-turbo`
+  - **Description**: The ID of the OpenAI model to use for generating responses.
+  - **Example**: `gpt-3.5-turbo`
 
 - **`OPENAI_RANDOM_PROMPT`**:
-- **Description**: The prompt to use for generating random responses.
-- **Example**: `Generate a random response.`
+  - **Description**: The prompt to use for generating random responses.
+  - **Example**: `Generate a random response.`
 
 - **`OPENAI_GOALS_MOTIVATION_PROMPT`**:
-- **Description**: The prompt to use for generating responses related to goals and motivation.
-- **Example**: `Generate a response about goals and motivation.`
+  - **Description**: The prompt to use for generating responses related to goals and motivation.
+  - **Example**: `Generate a response about goals and motivation.`
 
 - **`OPENAI_NON_PARTICIPANT_USER_PROMPT`**:
-- **Description**: The prompt to use for generating responses related to non-participant users.
-- **Example**: `Generate a response about non-participant users.`
+  - **Description**: The prompt to use for generating responses related to non-participant users.
+  - **Example**: `Generate a response about non-participant users.`
 
 - **`OPENAI_GENERAL_SUMMARY_PROMPT`**:
-- **Description**: The prompt to use for generating general summaries.
-- **Example**: `Generate a general summary.`
+  - **Description**: The prompt to use for generating general summaries.
+  - **Example**: `Generate a general summary.`
 
 - **`OPENAI_INDIVIDUAL_SUMMARY_PROMPT`**:
-- **Description**: The prompt to use for generating individual summaries.
-- **Example**: `Generate an individual summary.`
+  - **Description**: The prompt to use for generating individual summaries.
+  - **Example**: `Generate an individual summary.`
 
-  - **`TWITCH_STREAMER_NAME`**:
-- **Description**: The name of the Twitch streamer to monitor.
-- **Example**: `mytwitchstreamer`
+- **`TWITCH_STREAMER_NAME`**:
+  - **Description**: The name of the Twitch streamer to monitor.
+  - **Example**: `mytwitchstreamer`
 
 ### Docker Configuration Variables
 
