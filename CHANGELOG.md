@@ -1,5 +1,10 @@
 # Changelog
 
+## [v1.5.5](https://github.com/francisjgarcia/goalbot/releases/v1.5.5) (2025-03-03)
+* Merge pull request #7 from francisjgarcia/dependabot/pip/src/openai-1.65.2 [patch] @francisjgarcia ([#9429c33](https://github.com/francisjgarcia/goalbot/commit/9429c3399a116b559fdf6195c8a9e5974d86985d))
+* chore(deps): Bump openai from 1.64.0 to 1.65.2 in /src @francisjgarcia ([#b0171ee](https://github.com/francisjgarcia/goalbot/commit/b0171ee7a631a1905910ff8d78126290eed52634))
+
+
 ## [v1.5.4](https://github.com/francisjgarcia/goalbot/releases/v1.5.4) (2025-02-27)
 * Merge pull request #6 from francisjgarcia/dependabot/pip/src/openai-1.64.0 [patch] @francisjgarcia ([#6573d77](https://github.com/francisjgarcia/goalbot/commit/6573d77adbaa31b051d5572ba79fc4869da76966))
 * chore(deps): Bump openai from 1.63.0 to 1.64.0 in /src @francisjgarcia ([#d2f8a9b](https://github.com/francisjgarcia/goalbot/commit/d2f8a9ba1b4e19a0eeba9fa6610284ae408be406))
