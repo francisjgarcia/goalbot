@@ -1,5 +1,5 @@
 discord==2.3.2
-openai==1.82.1
+openai==1.84.0
 twitchio==2.10.0
 asyncio==3.4.3
 audioop-lts==0.2.1
