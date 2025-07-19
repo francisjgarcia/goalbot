@@ -1,5 +1,10 @@
 # Changelog
 
+## [v1.5.20](https://github.com/francisjgarcia/goalbot/releases/v1.5.20) (2025-07-19)
+* Merge pull request #24 from francisjgarcia/dependabot/pip/src/openai-1.95.1 [patch] @francisjgarcia ([#cb19bff](https://github.com/francisjgarcia/goalbot/commit/cb19bffed2df414c1a977ad0c2530065011e03cc))
+* chore(deps): Bump openai from 1.93.0 to 1.95.1 in /src @francisjgarcia ([#3d8dccc](https://github.com/francisjgarcia/goalbot/commit/3d8dccc4db0e133fc9bf18a096f68dd318b8191e))
+
+
 ## [v1.5.19](https://github.com/francisjgarcia/goalbot/releases/v1.5.19) (2025-06-30)
 * Merge pull request #23 from francisjgarcia/dependabot/pip/src/openai-1.93.0 [patch] @francisjgarcia ([#4967a79](https://github.com/francisjgarcia/goalbot/commit/4967a798e18c37c9c3b70d4a815c78c955cb31a7))
 * chore(deps): Bump openai from 1.90.0 to 1.93.0 in /src @francisjgarcia ([#95b41c1](https://github.com/francisjgarcia/goalbot/commit/95b41c14cd0a00bbe89591eec045bbfd20d6f8fa))
