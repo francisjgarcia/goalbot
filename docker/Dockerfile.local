@@ -8,6 +8,9 @@ ENV PYTHONUNBUFFERED=1 \
     PIP_DISABLE_PIP_VERSION_CHECK=on \
     PIP_DEFAULT_TIMEOUT=100
 
+# Update the package index and upgrade installed packages
+RUN apk update && apk upgrade
+
 # Create a non-privileged user to run the application
 RUN adduser -D -s /bin/sh python
 
